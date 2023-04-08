@@ -1,9 +1,5 @@
 # Getting Started with Create React App
 
-    // "predeploy":"npm run build",
-    // "deploy":"gh-pages -d build",
-    //"homepage":"http://samkitbarbhaya.github.io/memory-game",
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
